@@ -24,6 +24,6 @@
 
 <br>
 
-![snake gif](https://github.com/ApurvP13/ApurvP13/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/ApurvP13/ApurvP13/blob/output/github-contribution-grid-snake.svg)
 
 
