@@ -22,5 +22,8 @@
 
 <img src= "https://github-readme-stats.vercel.app/api?username=ApurvP13&&show_icons=true&title_color=38761d&icon_color=85e86f&text_color=38761d&bg_color=ffbd35">
 
+<br>
+
+![snake gif](https://github.com/ApurvP13/ApurvP13/blob/output/github-contribution-grid-snake.gif)
 
 
