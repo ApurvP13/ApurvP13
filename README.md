@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello, Apurv Here!!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**ApurvP13/ApurvP13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
+<br>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Java and PHP
+- 💬 Ask me about Python 🐍, Data Structures 
+- 📫 How to reach me: apurvpandey1306@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<img src= "https://github-readme-stats.vercel.app/api?username=ApurvP13&&show_icons=true&title_color=38761d&icon_color=85e86f&text_color=38761d&bg_color=ffbd35">
+
+
+
