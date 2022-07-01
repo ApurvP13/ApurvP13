@@ -1,4 +1,4 @@
-### Hello, Apurv Here!!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">
+### Hello, Apurv Here!!! 👋
 
 <hr>
 <br>
