@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Apurv, a passionate Computer Science graduate from the University of Huddersfield <br>with a focus on software development and problem-solving. <br>Currently, I'm on a journey to expand my skills in web development while <br>exploring the fascinating world of programming languages like Java, Python, and more.<br><br>
+I'm Apurv, a passionate Computer Science graduate from the University of Manchester <br>with a focus on software development and problem-solving. <br>Currently, I'm on a journey to expand my skills in web development while <br>exploring the fascinating world of programming languages like Java, Python, and more.<br><br>
 
 
 ## 🌐 Socials:
